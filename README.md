@@ -1,9 +1,7 @@
-# tsv-comparison-tool
+# TextCompare
 ## これなあに？
 tsv比較したい→テキストファイル比較したいになったけど、名前の名残があるブツです。
 
-
-### PageURL：https://azuwata.github.io/tsv-comparison-tool/
 
 ## 使用技術
 - Frontend: HTML5 + CSS3 + JavaScript (ES6+)
